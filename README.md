@@ -2,7 +2,7 @@
 
 A modern, responsive Tic-Tac-Toe game built with React, Vite, and CSS animations. Features player customization, game history, and a vibrant UI.
 
-![Game Screenshot](https://i.imgur.com/your-screenshot-url.png) <!-- Replace with actual screenshot -->
+![Game Screenshot](./game.png) <!-- Replace with actual screenshot -->
 
 ## Features ✨
 
